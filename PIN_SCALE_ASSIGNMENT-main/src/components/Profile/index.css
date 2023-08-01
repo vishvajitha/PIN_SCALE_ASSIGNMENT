@@ -1,0 +1,24 @@
+.profile-container {
+  display: flex;
+  background-color: #eff5f5;
+  width: 80%;
+  align-content: flex-start;
+}
+.profile {
+  height: 100px;
+  width: 100px;
+  margin: 20px;
+}
+.form {
+  height: 500px;
+  margin: 20px;
+}
+.input-el {
+  border-radius: 8px;
+  border-color: grey;
+  height: 30px;
+  width: 230px;
+}
+.name {
+  margin: 10px;
+}

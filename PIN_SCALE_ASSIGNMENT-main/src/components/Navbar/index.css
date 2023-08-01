@@ -1,0 +1,69 @@
+.nav-container {
+  display: flex;
+  align-items: center;
+}
+.icon {
+  margin: 10px;
+}
+.container {
+  width: 300px;
+  height: 160vh;
+  border-style: solid;
+  border-left: none;
+  border-top: none;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.avatar {
+  height: 50px;
+  width: 50px;
+}
+.lower-profile {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.trigger-button {
+  padding: 8px 15px 8px 15px;
+  margin: 8px;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+}
+.popup-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.popup-text {
+  background-color: white;
+  height: 300px;
+  width: 500px;
+  border-style: solid;
+  border-radius: 12px;
+}
+.first-popup {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.yes {
+  background-color: red;
+  border-radius: 8px;
+  color: white;
+  border: none;
+  height: 30px;
+  width: 100px;
+  margin: 15px;
+  cursor: pointer;
+}
+.cancel {
+  height: 30px;
+  width: 100px;
+  border-radius: 8px;
+  margin: 15px;
+  cursor: pointer;
+}

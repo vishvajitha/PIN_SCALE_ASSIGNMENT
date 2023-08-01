@@ -1,0 +1,44 @@
+.trans-first-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  border-style: solid;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+.trans-container {
+  width: 80%;
+  background-color: #eff5f5;
+}
+.trans-btn {
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 12px;
+  height: 40px;
+}
+.hyper-container {
+  display: flex;
+}
+.space {
+  margin: 10px;
+}
+.table-container {
+  border-style: solid;
+}
+.trans-popup {
+  background-color: white;
+  height: 400px;
+  width: 500px;
+  border-style: solid;
+  border-radius: 12px;
+  padding: 10px;
+}
+.trans-btn {
+  background-color: blue;
+  color: white;
+  border: none;
+  margin: 6px;
+}

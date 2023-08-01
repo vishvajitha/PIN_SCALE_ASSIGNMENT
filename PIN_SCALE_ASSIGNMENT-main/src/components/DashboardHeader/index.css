@@ -1,0 +1,15 @@
+.dash-head-container {
+  display: flex;
+  background-color: white;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.transaction-btn {
+  background-color: #3333ff;
+  color: white;
+  border-radius: 12px;
+  border: none;
+  cursor: pointer;
+  height: 50px;
+}
